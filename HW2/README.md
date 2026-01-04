@@ -36,7 +36,7 @@
 ---
 
 ## 📂 Repository Structure
-```
+
 .
 ├── hw2_p1_data_construction.py # Problem 1: 데이터 구성 (이벤트 패널 생성)
 ├── hw2_p2_event_study.py # Problem 2: AR / CAR 계산
@@ -48,7 +48,7 @@
 │ ├── regression_results_ns_by_horizon.csv
 │ └── regression_summary_h*.txt
 └── README.md
-```
+
 ---
 
 ## 🧩 Core Files Explanation (핵심 4개 기준)
