@@ -65,6 +65,7 @@ Table 3에서는 전체 표본(All Firms)과 소형주(Small Firms)를 구분하
 ---
 
 ## 4. 폴더 구조 (Repository Structure)
+```
 금융데이터분석_Replication/
 ├─ Asset Growth and the Cross-Section of Stock Returns.pdf
 ├─ Final Report_장현민, 신현민, 이수민.pdf
@@ -85,7 +86,7 @@ Table 3에서는 전체 표본(All Firms)과 소형주(Small Firms)를 구분하
 ├─ Panel C&D data.csv
 ├─ Table 3_Panel C&D_1963_2003.ipynb
 └─ Table 3_Panel C&D_1963_2024.ipynb
-
+```
 ---
 
 ## 5. 실증 분석 구현 (Empirical Implementation)
